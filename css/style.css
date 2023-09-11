@@ -1,7 +1,46 @@
 #logo {
-   width: 250px;
+   width: 200px;
+   padding-top: 60px;
+   padding-left: 8px;
+}
+
+header {
+   height: 120px;
+   background-color: rgb(79, 159, 255);
+   background-size: hight= 20px;
 }
 
 h1 {
    font-size: 40px;
+   margin-bottom: 1px;
+}
+
+#subtitle{
+   margin-bottom: 20px;
+   color: gray;
+}
+
+#the-booleaner{
+   color: rgb(0, 170, 255);
+}
+
+#photos{
+   margin-top: 2px;
+   margin-bottom: 20px;
+}
+
+#yellow-p {
+   background-color: yellow;
+}
+
+#first-column{
+   width: 25%;
+}
+
+#second-column{
+   width: 25%;
+}
+
+#third-column{
+   width: 50%;
 }
