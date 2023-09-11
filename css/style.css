@@ -1,3 +1,9 @@
+header{
+   background-image: url(/img/pattern.png);
+   background-repeat: repeat;
+   background-size: contain;
+}
+
 #logo {
    width: 200px;
    padding-top: 60px;
@@ -33,6 +39,11 @@ h1 {
    background-color: yellow;
 }
 
+thead{
+   background-color: rgb(0, 110, 255);
+   color: white;
+}
+
 #first-column{
    width: 25%;
 }
@@ -43,4 +54,37 @@ h1 {
 
 #third-column{
    width: 50%;
+}
+
+#aqua-row{
+   background-color: aqua;
+}
+
+#sentence-footer{
+   margin-bottom: 10px;
+   color: gray;
+   font-size: 20px;
+}
+
+#first-photo-footer{
+   background-image: url(/img/monitor.jpg);
+   width: 280px;
+   height: 200px;
+   color: white;
+   padding-top: 8px;
+   padding-left: 8px;
+   font-size: 28px;
+   margin-bottom: 8px;
+}
+
+
+#second-photo-footer{
+   background-image: url(/img/graph.jpg);
+   width: 280px;
+   height: 200px;
+   color: white;
+   padding-top: 8px;
+   padding-left: 8px;
+   font-size: 28px;
+   margin-bottom: 8px;
 }
