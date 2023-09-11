@@ -35,7 +35,7 @@ h1 {
    margin-bottom: 20px;
 }
 
-#yellow-p {
+.yellow_p {
    background-color: yellow;
 }
 
@@ -44,19 +44,18 @@ thead{
    color: white;
 }
 
-#first-column{
+.first_column{
    width: 25%;
 }
 
-#second-column{
+.second_column{
    width: 25%;
 }
 
-#third-column{
+.third_column{
    width: 50%;
 }
-
-#aqua-row{
+.aqua_row{
    background-color: aqua;
 }
 
